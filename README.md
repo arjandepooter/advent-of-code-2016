@@ -20,7 +20,7 @@ Shortlist ranked (sort of) from hard to easy:
 - [ ] Elm
 - [ ] Ruby
 - [ ] Perl
-- [ ] C
+- [x] C (day 1)
 - [ ] C++
 - [ ] C#
 - [ ] Kotlin
