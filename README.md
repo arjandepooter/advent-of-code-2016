@@ -11,7 +11,7 @@ Shortlist ranked (sort of) from hard to easy:
 - [ ] Julia
 - [ ] Squirrel
 - [ ] Erlang
-- [ ] Scala
+- [x] Scala (day 2)
 - [ ] Lisp
 - [ ] F#
 - [ ] Nim
