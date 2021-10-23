@@ -6,11 +6,12 @@ Solutions for AoC 2016 with an attempt to solve every day in a different languag
 
 Shortlist ranked (sort of) from hard to easy:
 
-- [ ] ASM
+- [ ] WASM
 - [ ] Bash
 - [ ] Julia
+- [ ] Fortran
 - [ ] Squirrel
-- [ ] Erlang
+- [x] Erlang (day 3)
 - [x] Scala (day 2)
 - [ ] Lisp
 - [ ] F#
