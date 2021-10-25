@@ -16,7 +16,7 @@ Shortlist ranked (sort of) from hard to easy:
 - [ ] Lisp
 - [ ] F#
 - [ ] Nim
-- [ ] Zig
+- [x] Zig (day 4)
 - [ ] Clojure
 - [ ] Elm
 - [ ] Ruby
