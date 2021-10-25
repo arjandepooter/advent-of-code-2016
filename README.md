@@ -25,7 +25,7 @@ Shortlist ranked (sort of) from hard to easy:
 - [ ] C++
 - [ ] C#
 - [ ] Kotlin
-- [ ] Java
+- [x] Java (day 6)
 - [ ] Go
 - [ ] PHP
 - [ ] LUA
