@@ -20,7 +20,7 @@ Shortlist ranked (sort of) from hard to easy:
 - [ ] Clojure
 - [ ] Elm
 - [ ] Ruby
-- [ ] Perl
+- [x] Perl (day 5)
 - [x] C (day 1)
 - [ ] C++
 - [ ] C#
