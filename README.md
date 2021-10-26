@@ -22,7 +22,7 @@ Shortlist ranked (sort of) from hard to easy:
 - [ ] Ruby
 - [x] Perl (day 5)
 - [x] C (day 1)
-- [ ] C++
+- [x] C++ (day 8)
 - [ ] C#
 - [ ] Kotlin
 - [x] Java (day 6)
