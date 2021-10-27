@@ -29,7 +29,7 @@ Shortlist ranked (sort of) from hard to easy:
 - [ ] Go
 - [ ] PHP
 - [ ] LUA
-- [ ] Haskell
+- [x] Haskell (day 9)
 - [ ] Elixir
 - [ ] Dart
 - [ ] Javascript
