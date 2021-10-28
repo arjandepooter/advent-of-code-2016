@@ -11,6 +11,8 @@ Shortlist ranked (sort of) from hard to easy:
 - [ ] Julia
 - [ ] Fortran
 - [ ] Squirrel
+- [ ] FreePascal
+- [ ] Pony
 - [x] Erlang (day 3)
 - [x] Scala (day 2)
 - [ ] Lisp
@@ -18,7 +20,6 @@ Shortlist ranked (sort of) from hard to easy:
 - [ ] Nim
 - [x] Zig (day 4)
 - [ ] Clojure
-- [ ] Elm
 - [ ] Ruby
 - [x] Perl (day 5)
 - [x] C (day 1)
