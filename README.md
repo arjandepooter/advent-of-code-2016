@@ -27,7 +27,7 @@ Shortlist ranked (sort of) from hard to easy:
 - [ ] Kotlin
 - [x] Java (day 6)
 - [ ] Go
-- [ ] PHP
+- [x] PHP (day 10)
 - [ ] LUA
 - [x] Haskell (day 9)
 - [ ] Elixir
