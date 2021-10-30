@@ -25,7 +25,7 @@ Shortlist ranked (sort of) from hard to easy:
 - [x] C (day 1)
 - [x] C++ (day 8)
 - [ ] C#
-- [ ] Kotlin
+- [x] Kotlin (day 11)
 - [x] Java (day 6)
 - [ ] Go
 - [x] PHP (day 10)
