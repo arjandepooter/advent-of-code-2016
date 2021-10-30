@@ -19,7 +19,7 @@ Shortlist ranked (sort of) from hard to easy:
 - [x] F# (day 7)
 - [ ] Nim
 - [x] Zig (day 4)
-- [ ] Clojure
+- [x] Clojure (day 12)
 - [ ] Ruby
 - [x] Perl (day 5)
 - [x] C (day 1)
