@@ -10,7 +10,7 @@ Shortlist ranked (sort of) from hard to easy:
 - [ ] Ada
 - [ ] Julia
 - [ ] Fortran
-- [ ] Pascal
+- [x] Pascal (day 15)
 - [ ] Pony
 - [ ] Visual Basic
 - [ ] Groovy
