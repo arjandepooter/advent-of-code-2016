@@ -21,7 +21,7 @@ Shortlist ranked (sort of) from hard to easy:
 - [ ] Nim
 - [x] Zig (day 4)
 - [x] Clojure (day 12)
-- [ ] Ruby
+- [x] Ruby (day 14)
 - [x] Perl (day 5)
 - [x] C (day 1)
 - [x] C++ (day 8)
