@@ -18,7 +18,7 @@ Shortlist ranked (sort of) from hard to easy:
 - [x] Scala (day 2)
 - [ ] Lisp
 - [x] F# (day 7)
-- [ ] Nim
+- [x] Nim (day 17)
 - [x] Zig (day 4)
 - [x] Clojure (day 12)
 - [x] Ruby (day 14)
