@@ -6,6 +6,7 @@ Solutions for AoC 2016 with an attempt to solve every day in a different languag
 
 Shortlist ranked (sort of) from hard to easy:
 
+- [x] ASM (day 18)
 - [ ] Bash
 - [ ] Ada
 - [ ] Julia
