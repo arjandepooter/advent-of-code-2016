@@ -33,7 +33,7 @@ Shortlist ranked (sort of) from hard to easy:
 - [x] PHP (day 10)
 - [x] LUA (day 16)
 - [x] Haskell (day 9)
-- [ ] Elixir
+- [x] Elixir (day 20)
 - [ ] Dart
 - [ ] Javascript
 - [ ] Rust
