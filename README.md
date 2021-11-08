@@ -25,6 +25,7 @@ Shortlist ranked (sort of) from hard to easy:
 - [x] Ruby (day 14)
 - [x] Perl (day 5)
 - [x] C (day 1)
+- [x] D (day 21)
 - [x] C++ (day 8)
 - [x] C# (day 19)
 - [x] Kotlin (day 11)
