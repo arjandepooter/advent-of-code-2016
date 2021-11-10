@@ -37,5 +37,5 @@ Shortlist ranked (sort of) from hard to easy:
 - [x] Elixir (day 20)
 - [x] Dart (day 22)
 - [x] TypeScript/Deno (day 23)
-- [ ] Rust
+- [x] Rust (day 24)
 - [ ] Python
