@@ -38,4 +38,4 @@ Shortlist ranked (sort of) from hard to easy:
 - [x] Dart (day 22)
 - [x] TypeScript/Deno (day 23)
 - [x] Rust (day 24)
-- [ ] Python
+- [x] Python (day 25)
